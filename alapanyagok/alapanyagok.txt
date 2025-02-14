@@ -1,8 +1,8 @@
-asd; alma; db; 10;
+asd; alma4; hl; 55;
 banan; alma; db; 10;
 cumi; alma; db; 10;
-retek; alma; db; 10;
+retek; banan; kg; 5;
 turo; alma; db; 10;
 piiza; alma; db; 10;
-asb; sss; 123; df;
 paprika; 123; 34; dsa;
+
